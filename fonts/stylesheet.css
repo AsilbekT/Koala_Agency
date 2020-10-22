@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Libre-regular';
+    src: url('LibreBaskerville-Regular.eot');
+    src: url('LibreBaskerville-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LibreBaskerville-Regular.woff2') format('woff2'),
+        url('LibreBaskerville-Regular.woff') format('woff'),
+        url('LibreBaskerville-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre-bold';
+    src: url('LibreBaskerville-Bold.eot');
+    src: url('LibreBaskerville-Bold.eot?#iefix') format('embedded-opentype'),
+        url('LibreBaskerville-Bold.woff2') format('woff2'),
+        url('LibreBaskerville-Bold.woff') format('woff'),
+        url('LibreBaskerville-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
